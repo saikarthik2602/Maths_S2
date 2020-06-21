@@ -1,7 +1,7 @@
 # Maths_S2
 Predicting missing values in Scania Data set.
 
--> The below link contains files related to the Scania data set.
+-> The below link contains files related to Scania data set.
 
 ---> https://archive.ics.uci.edu/ml/datasets/APS+Failure+at+Scania+Trucks 
 

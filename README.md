@@ -18,8 +18,7 @@ Predicting missing values in Scania Data set.
      
      --> And also create two files named 'Training_output.csv' and  'Test_ouput.csv' which should be empty and also should be in same directory. 
      
-   
----> Now open "MATLAB" and go the respective directory in which you have saved all the above files.
-
----> Open  'sample_3.m' and click on 'RUN'.Now try to open files named 'Training_output.csv' and  'Test_ouput.csv' in which you 
-     can see all the values are filled. 
+     --> Now open "MATLAB" and go the respective directory in which you have saved all the above files.
+     
+     --> Open  'sample_3.m' and click on 'RUN'.Now try to open files named 'Training_output.csv' and  'Test_ouput.csv' in which you 
+         can see all the values are filled. 
